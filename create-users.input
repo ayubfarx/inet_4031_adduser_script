@@ -1,0 +1,8 @@
+jdoe:password123:Doe:John:admins,developers
+asmith:pass456:Smith:Alice:developers
+bwayne:batman:Wayne:Bruce:admins
+ckent:superman:Kent:Clark:admins,hr
+dprince:wonderwoman:Prince:Diana:hr
+tmorgan:password789:Morgan:Tina:-
+badlineuser:::::
+skipuser:skipme:Skip:User:-
